@@ -18,7 +18,7 @@ const Navbar = () => {
 
     return (
         <nav className="w-full bg-white shadow sticky top-0 z-50">
-            <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
+            <div className="container mx-auto px-4 py-3 flex items-center justify-between">
                 <h1 className="text-2xl font-bold">MyLogo</h1>
                 <div className="hidden lg:flex items-center gap-8">
                     <ul className="flex items-center gap-8 text-lg font-medium">
